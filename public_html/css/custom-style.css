@@ -1,23 +1,24 @@
-div{
-    border: solid;
-    border-width: 1px;
-    padding-left: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    border-color: lightgray;
+
+/*div{
+    border:solid;
+    padding:20px;
+}*/
+
+.uppercase{
+   text-transform:uppercase;
+   font-size: 30px;
 }
 
-.container{
-    border-color: blue;
-    border-width:3px; 
-    padding:30px;
+.list-group-item{
+    border:0;
+    padding-top:15px;
+    padding-bottom:15px;
 }
 
-.row{
-    border-color: orange;
+p{
+    color:white
 }
 
-.upper-case{
-    text-transform:uppercase;
-    font-size:50px; 
-}
+body{
+    background-image: url(images/wallpapaer0001.png);
+    background-size: cover;
