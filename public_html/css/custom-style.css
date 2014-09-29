@@ -1,43 +1,37 @@
 
-/*div{
-    border:solid;
-    padding:20px;
-    border-color: white
-}*/
-
-.uppercase{
+.uppercase{/*this code changes any words I want to change into uppercases with a 30px font size*/
     text-transform:uppercase;
     font-size: 30px;
 }
 
-.list-group-item{
+.list-group-item{/*puts space between the words in the list-group-item code*/
     border:0;
     padding-top:15px;
     padding-bottom:15px;
 }
 
-p{
+p{/*changes all the P HTML codes that I want to white*/
     color:white;
 }
 
-body{
+body{/*changes the background to a picture background*/
     background-image: url(images/wallpaper0001.png);
     background-size: cover;
 }  
 
-.custom-padding{
+.custom-padding{/*adds padding to what ever coding i want*/
     padding-bottom:185px; 
 }
 
-.color{
+.color{/*changes all the codes that i want to white*/
   color:white;
 }
 
-custom-padding-two{
+custom-padding-two{/*adds padding to the bottom to a pacific code*/
     padding-bottom:100px;
 }
 
-.img-custom{
+.img-custom{/*changes the height and width of a pacific picture*/
    width:700px;
    height:400px;
 }
